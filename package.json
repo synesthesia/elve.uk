@@ -9,6 +9,9 @@
     "shorten": "netlify-shortener",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "shorten": "cli.js"
+  },
   "author": "Julian Elve <julian@synesthesia.co.uk> (https://www.synesthesia.co.uk)",
   "license": "ISC",
   "dependencies": {
