@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Link shortener for netlify",
   "main": "index.js",
-  "repository":"https://github.com/synesthesia/elve.uk",
+  "repository": "https://github.com/synesthesia/elve.uk",
   "baseUrl": "https://elve.uk",
   "scripts": {
     "shorten": "netlify-shortener",
