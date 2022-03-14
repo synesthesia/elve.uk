@@ -1,0 +1,17 @@
+{
+  "name": "elve.uk",
+  "version": "1.0.0",
+  "description": "Link shortener for netlify",
+  "main": "index.js",
+  "repository":"https://github.com/synesthesia/elve.uk",
+  "baseUrl": "https://elve.uk",
+  "scripts": {
+    "shorten": "netlify-shortener",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Elve <julian@synesthesia.co.uk> (https://www.synesthesia.co.uk)",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
